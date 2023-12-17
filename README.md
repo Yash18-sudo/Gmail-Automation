@@ -66,9 +66,6 @@ npm install googleapis nodemon
 npm start
 ```
 
-# LINKS
-
-<h3> <a href = "https://github.com/Sahil-Sayyad/Auto_reply_gmail_api_app"> CODE</a> </h3><br>
 
 
 note on areas where your code can be improved.
@@ -82,5 +79,3 @@ note on areas where your code can be improved.
   These are some areas where the code can be improved, but overall, it provides implementation of
   auto-reply functionality using the Gmail API.
 5.Time Monitoring: The code currently use randominterval function to generate seconds and in this code can be improved by adding cron jobs package to schedule email tasks 
-
-

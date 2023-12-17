@@ -1,7 +1,7 @@
 {
-  "name": "gmail_api",
+  "name": "gmail_reply_automation_assignment",
   "version": "1.0.0",
-  "description": "this is a Node.js based app that is able to respond to emails sent to our Gmail mailbox while we are out on a vacation.",
+  "description": "Automated Reply for Emails",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   "keywords": [
     "gmailapi"
   ],
-  "author": "Sahil Sayyad",
+  "author": "Yash Bahuguna",
   "license": "ISC",
   "dependencies": {
     "googleapis": "^105.0.0",
